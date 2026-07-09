@@ -106,7 +106,7 @@ const noorHasan = {
 <div align="center">
 
 <!-- 🔧 Replace the three URLs below with your real profile links -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/md-noor-hasan-1a80061b7/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
