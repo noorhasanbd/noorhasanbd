@@ -84,42 +84,14 @@ const noorHasan = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=noorhasanbd&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorhasanbd&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=noorhasanbd&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=noorhasanbd&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=noorhasanbd&theme=tokyonight&hide_border=true" width="99%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=noorhasanbd&theme=tokyo-night&hide_border=true" width="95%" />
-
-</div>
-
-<br/>
-
-## Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/md-noor-hasan-1a80061b7/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/noorhasanbd" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://portfolio-psi-rosy-21.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
-
-<sub>Thanks for stopping by — always open to collaborating on interesting frontend work.</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noorhasanbd&theme=tokyo-night&hide_border=true" width="99%" />
 
 </div>
