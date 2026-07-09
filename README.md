@@ -1,62 +1,115 @@
-# Hello World! 👋
+<!-- ============================================= -->
+<!--   GITHUB PROFILE README — MD. NOOR HASAN      -->
+<!--   Replace all placeholders marked with 🔧      -->
+<!-- ============================================= -->
 
-<!-- BANNER IMAGE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=40" alt="Banner" />
-</p>
+<div align="center">
 
-<!-- NAME & DESIGNATION -->
-<h1 align="center">Hi, I'm [Your Full Name]</h1>
-<h3 align="center">Frontend Web Developer 🚀</h3>
+<!-- 🔧 BANNER: change the "text" param to your name/tagline if you want different wording -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Md.%20Noor%20Hasan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Web%20Developer%20%7C%20React%20%26%20Next.js&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<!-- 🔧 Typing animation — edit the "lines" text to whatever taglines you like -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+clean%2C+responsive+web+experiences;Currently+exploring+Next.js+%26+UI%2FUX;Open+to+Frontend+Developer+opportunities" alt="Typing SVG" />
+</a>
 
-### 👤 About Me
-Write a short introduction about yourself here (3-4 lines). For example: I am a passionate Frontend Developer dedicated to building clean, accessible, and user-centric web applications. I love turning complex problems into beautiful and intuitive digital experiences while continuously learning new technologies.
+</div>
 
----
+<br/>
 
-### ⚡ Current Activities
-- 🚀 I am currently exploring **Next.js**.
-- 🗺️ I’m working on a **tourism website**.
-- 📚 I'm sharpening my skills in responsive UI design and modern state management.
+## 👋 About Me
 
----
+I'm **Md. Noor Hasan**, a Frontend Web Developer with a **BSc in Computer Science & Engineering from Southeast University**. I love turning ideas into fast, accessible, and visually polished interfaces — bridging clean design with solid engineering. Every project is a chance to sharpen my craft, ship something people actually enjoy using, and push my UI/UX instincts a little further. 🚀
 
-### 🛠️ Skills
-*Using visually clean badging for your tech stack:*
+<br/>
 
-**Frontend & Styling**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🔭 Currently
 
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🌱 **Learning:** Deepening my skills in **Next.js** — App Router, server components, and performance optimization
+- 🏝️ **Building:** A full-featured **Tourism Website** showcasing destinations, bookings, and rich interactive UI
+- 🎨 **Sharpening:** My **UI/UX design principles** — accessibility, micro-interactions, and design systems
+- 💬 **Ask me about:** React, Tailwind CSS, JavaScript, and frontend performance
+- 🌐 **Portfolio:** [portfolio-psi-rosy-21.vercel.app](https://portfolio-psi-rosy-21.vercel.app/)
 
----
+<br/>
 
-### 🌐 Connect with Me
-*Find me across professional networks:*
+## 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/YOUR-TWITTER-USERNAME)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+### Frontend
+<div align="center">
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 📊 My GitHub Stats
-*Replace `YOUR-GITHUB-USERNAME` in the URLs below with your real GitHub username to pull your live stats!*
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="GitHub Streak" height="150" />
-</p>
+### Build Tools & State Management
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
+
+### Tools & Platforms
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- 🔧 Replace YOUR_GITHUB_USERNAME everywhere below with your actual GitHub username -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
+
+<br/>
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+<!-- 🔧 Replace each URL/handle with your real profile links -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://portfolio-psi-rosy-21.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
