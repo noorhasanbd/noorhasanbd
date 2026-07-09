@@ -1,6 +1,5 @@
 <!-- ============================================= -->
 <!--   GITHUB PROFILE README — MD. NOOR HASAN      -->
-<!--   🔧 = placeholder to replace                  -->
 <!-- ============================================= -->
 
 <div align="center">
@@ -11,7 +10,7 @@
   <img src="https://img.shields.io/badge/Portfolio-portfolio--psi--rosy--21.vercel.app-2563EB?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?noorhasanbd&style=flat-square&color=2563eb&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=noorhasanbd&style=flat-square&color=2563eb&label=Profile+Views" />
 
 </div>
 
@@ -82,16 +81,14 @@ const noorHasan = {
 
 ## GitHub Analytics
 
-<!-- 🔧 Replace YOUR-GITHUB-USERNAME in every URL below -->
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?noorhasanbd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?noorhasanbd&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=noorhasanbd&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorhasanbd&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=noorhasanbd&theme=tokyonight&hide_border=true" width="70%" />
 
 <br/><br/>
 
@@ -105,15 +102,14 @@ const noorHasan = {
 
 <div align="center">
 
-<!-- 🔧 Replace the three URLs below with your real profile links -->
 <a href="https://www.linkedin.com/in/md-noor-hasan-1a80061b7/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
 <a href="https://github.com/noorhasanbd" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://portfolio-psi-rosy-21.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
