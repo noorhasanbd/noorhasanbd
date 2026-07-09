@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Portfolio-portfolio--psi--rosy--21.vercel.app-2563EB?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=2563eb&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?noorhasanbd&style=flat-square&color=2563eb&label=Profile+Views" />
 
 </div>
 
@@ -86,8 +86,8 @@ const noorHasan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?noorhasanbd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?noorhasanbd&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 
 <br/>
 
@@ -95,7 +95,7 @@ const noorHasan = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noorhasanbd&theme=tokyo-night&hide_border=true" width="95%" />
 
 </div>
 
@@ -112,7 +112,7 @@ const noorHasan = {
 <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
+<a href="https://github.com/noorhasanbd" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
